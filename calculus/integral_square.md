@@ -6,7 +6,7 @@ To find the area of a square of side length 2 using integral calculus, you can u
 
 - Define the interval over which you want to find the area. For a square of side length 2, the interval is [0,2].
 
-- Set up the definite integral using the function and the interval. The definite integral to find the area between f(x) = 2 and the x-axis from x = 0 to x = 2 is given by:
+Set up the definite integral using the function and the interval. The definite integral to find the area between f(x) = 2 and the x-axis from x = 0 to x = 2 is given by:
 ```
 ∫[0,2] 2 dx
 ```
