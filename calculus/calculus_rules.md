@@ -1,3 +1,19 @@
+Calculus is a branch of mathematics that deals with the study of rates of change and accumulation. It is divided into two main branches: differential calculus and integral calculus.
+
+Differential Calculus:
+It deals with the study of how a function changes as the input (or independent variable) changes. The central idea is to use the concept of a limit to determine the value of the function at a specific point. The two main concepts in differential calculus are the derivative and the differential.
+
+The derivative of a function at a point is the instantaneous rate of change of the function at that point. It is represented by the symbol f'(x) or dy/dx. The derivative can also be used to find the maximum and minimum values of a function.
+
+The differential of a function is the small change in the function's output caused by a small change in the input. It is represented by the symbol df or dy.
+
+Integral Calculus:
+It deals with the study of accumulation and the reverse process of differentiation. The main concept in integral calculus is the definite integral, which is the signed area between the function and the x-axis. It is represented by the symbol ∫f(x)dx.
+
+The definite integral is used to find the total change in a function over a certain interval. The process of finding the definite integral is called integration.
+
+There are many other concepts in calculus like integration by substitution, integration by parts, partial derivatives, multiple integrals and vector calculus. Calculus is widely used in physics, engineering, economics, and other fields. It is a powerful tool for understanding and solving many problems in the natural and applied sciences.
+
 Calculus has many rules and formulas, but here are some of the most important ones:
 ```
     The Sum Rule: If f(x) and g(x) are two differentiable functions, then their sum, h(x) = f(x) + g(x), is also differentiable and the derivative is given by the formula: h'(x) = f'(x) + g'(x).
